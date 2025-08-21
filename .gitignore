@@ -1,0 +1,5 @@
+# Dependencies - contains thousands of files, regenerated with npm install
+node_modules/
+
+# OS generated files
+.DS_Store
